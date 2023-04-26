@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rjlorenzo
+- 👋 Hi, I’m Ryan
 - 👀 I’m interested in writing applications for the operating room. 
 - 🌱 I’m currently learning python, docker, and anesthesiology as a medical resident!
 - 💞️ I’m looking to collaborate on anything and everything. 
